@@ -31,7 +31,7 @@
     "resize"
   ],
   "dependencies": {
-    "imagemagick": "git://github.com/yourdeveloper/node-imagemagick.git",
+    "imagemagick": "https://github.com/yourdeveloper/node-imagemagick.git",
     "mkdirp": "~0.3.3"
   },
   "devDependencies": {
